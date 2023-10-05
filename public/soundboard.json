@@ -44,6 +44,11 @@
       "name": "apple2",
       "artist": "",
       "mp3": "/sounds/apple2.mp3"
+    },
+    {
+      "name": "soittari mikko",
+      "artist": "",
+      "mp3": "/sounds/mikko.mp3"
     }
   ]
 }

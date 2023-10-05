@@ -4,6 +4,7 @@
   import SoundSearch from "./SoundSearch.svelte";
   export let name; 
   export let imgpath;
+  export let imgpath2;
 
   let searchTerm = "";
   let sounds = [];
@@ -40,7 +41,8 @@
     text-align: center;
   }
   img {
-    max-width: 20vw;
+    width: 100vw;
+    max-width: 500px;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -48,17 +50,23 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .cheek {
+    max-width: 200px;
+  }
+  .soundboard{
+    min-width: 90vw;
+  }
 </style>
 
 <svelte:head>
   <title>{name}</title>
 </svelte:head>
 <header>
-  <h1>{name}</h1>
-  <img src={imgpath} alt="."/>
+  <img src={imgpath2} alt="<h1>{name}</h1>"/>
+  <img class="cheek" src={imgpath} alt="."/>
 </header>
 <main>
-  <section>
+  <section class="soundboard">
     <Soundboard bind:sounds={displayList} />
   </section>
 </main>

@@ -49,6 +49,11 @@
       "name": "soittari mikko",
       "artist": "",
       "mp3": "/sounds/mikko.mp3"
+    },
+    {
+      "name": "GONKI",
+      "artist": "",
+      "mp3": "/sounds/gong.mp3"
     }
   ]
 }

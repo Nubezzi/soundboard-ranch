@@ -4,7 +4,8 @@ const app = new App({
 	target: document.body,
 	props: {
 		name: 'Ranch Soundboard',
-		imgpath: '/pics/Untitled.png'
+		imgpath: '/pics/Untitled.png',
+		imgpath2: '/pics/logo.png'
 	}
 });
 

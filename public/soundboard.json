@@ -1,0 +1,49 @@
+{
+  "files": [
+    {
+      "name": "Yeehaw",
+      "artist": "",
+      "mp3": "/sounds/yeehaw.mp3"
+    },
+    {
+      "name": "Whip",
+      "artist": "",
+      "mp3": "/sounds/whip.mp3"
+    },
+    {
+      "name": "Aha",
+      "artist": "",
+      "mp3": "/sounds/aha.mp3"
+    },
+    {
+      "name": "Mr Green",
+      "artist": "",
+      "mp3": "/sounds/mrgreen.mp3"
+    },
+    {
+      "name": "nam nam piriä",
+      "artist": "",
+      "mp3": "/sounds/piri.mp3"
+    },
+    {
+      "name": "kpk soittaa",
+      "artist": "",
+      "mp3": "/sounds/kpk.mp3"
+    },
+    {
+      "name": "adnroid",
+      "artist": "",
+      "mp3": "/sounds/Android.mp3"
+    },
+    {
+      "name": "apple",
+      "artist": "",
+      "mp3": "/sounds/iphone.mp3"
+    },
+    {
+      "name": "apple2",
+      "artist": "",
+      "mp3": "/sounds/apple2.mp3"
+    }
+  ]
+}
